@@ -7,3 +7,4 @@ OnePedal app fetches these automatically when you connect your pedal.
 |------|---------|
 | `ghos-system-<version>.swu` | System update package |
 | `ghos-system-<version>.swu.sha256` | SHA-256 of the package |
+| `ghos-system-<version>.manifest.json` | Version and compatibility metadata |
