@@ -1,0 +1,19 @@
+PROPRIETARY SOFTWARE — ALL RIGHTS RESERVED
+
+Copyright (c) 2026 Groundhog Audio LLC. All rights reserved.
+
+This repository is provided solely as a distribution channel for OnePedal
+system updates. No license is granted to use, copy, modify, fork, or
+redistribute this repository or its contents — including update packages,
+digests, metadata, and documentation — except as necessary to receive
+official OnePedal system updates for a OnePedal unit you own, in
+accordance with the OnePedal End-User License Agreement (EULA), included
+in this repository as EULA.md.
+
+Update packages include third-party open-source components licensed under
+their own terms. Those components remain governed by their own licenses,
+which control over this notice and the EULA to the extent they conflict.
+Notices for the components in an installed system are carried on the
+device under /usr/share/doc/ghos/licenses/.
+
+For licensing inquiries: contact@groundhogaudio.com
